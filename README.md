@@ -1,2 +1,2 @@
-# MeterReader
-Head End software for DLMS and M-Bus compliant meters
+# MeterHHU
+Software based hand held unit for DLMS and M-Bus compliant meters
